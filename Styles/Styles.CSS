@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+  }
+  p {
+    width: 200px;
+    height: 200px;
+    border-color: rgb(107, 7, 7); 
+    border-style: solid;
+    border-width: 1px;
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 10%;
+    box-shadow: 5px 5px black;
+    text-shadow: 1px 1px black;
+    color: white;
+    line-height: 180px;
+    background-color: #ca1111;
+    background-image: linear-gradient(to bottom right, transparent, rgba(0, 0, 0, 0.3) 90%);
+    box-shadow: 10px 5px 5px black;
+
+  }
